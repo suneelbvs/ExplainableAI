@@ -5,7 +5,7 @@
 
 #In this repo, we have captured some case studies of AI/ML models with XAi/XMl using respective packages.
 
-# List of Case Studies:
+## List of Case Studies:
 1. 
 2. 
 3. 
@@ -13,9 +13,9 @@
 5. 
 6. 
 
-# Requirements:
+## Requirements:
 
-# Installation Steps:
+## Installation Steps:
 
 
-# Team Members:
+## Team Members:
