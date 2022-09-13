@@ -1,4 +1,4 @@
-# Repository for "Practical Case Studies of ExplainableAI(XAi)/ML(XMl)"
+# Repository for "Practical Case Studies of ExplainableAI(XAi)"
 * In this repo, we will explore and discuss some basic concepts machine learning & deep learning models and strategies to interpret models and their features; as AI/ML models are often black box
 
 * Using ExplainableAI (XAi)/ML(XMl), we will be able to interpret, validate, understand the models more transparent in fashion rather than simple prediction. 
